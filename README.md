@@ -1,4 +1,4 @@
-## Releases: https://github.com/FANGO55/Universe-Line/releases/tag/untagged-cf34479efda471c4d8a3
+## Releases: https://github.com/FANGO55/Universe-Line/releases/
 ## Discord: https://discord.gg/tM4Ew2qbJa
 ## YouTube: https://www.youtube.com/@fangodlrs/featured
 ## Bilibili: https://space.bilibili.com/3493140048644742
